@@ -49,10 +49,4 @@ The report template can be found at `infovis-assn-supp/report_template.zip`. Thi
 - [d3](https://d3js.org)
 - [d3-geo](https://d3js.org/d3-geo)
 - [Observable D3 Gallery](https://observablehq.com/@d3/gallery)
-### References
-- Sarah E. Battersby and Fritz C. Kessler. Cues for interpreting distortion in map projections. *Journal of Geography,* 111(3):93-101, 2012.
-- Paul Christopher Gosling and Elias Symeonakis. Automated map projection selection for gis. *Cartography and Geographic Information Science,* 47(3):261-276, 2020.
-- Hyeon Jeon, Hyunwook Lee, Yun-Hsin Kuo, Taehyun Yang, Daniel Archambault, Sungahn Ko, Takanori Fujiwara, Kwan-Liu Ma, and Jinwook Seo. Unveiling high-dimensional backstage: A survey for reliable visual analytics with dimensionality reduction. In *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems,* CHI '25, New York, NY, USA, 2025. Association for Computing Machinery.
-- Kerkovits Krisztián. Comparing finite and infinitesimal map distortion measures. *International Journal of Cartography,* 5(1):3-22, 2019.
-- Sylvain Lespinats and Michaël Aupetit. Checkviz: Sanity check and topological clues for linear and non-linear mappings. *Computer Graphics Forum,* 30(1):113-125, 2011.
 
