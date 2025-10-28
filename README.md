@@ -22,14 +22,16 @@ infovis-assn2-supp/
 Under `datasets/`, there are three *point* datasets and three *line* datasets. You can use these according to your task, or use your own datasets. Any additional information such as the geodesic length of lines should be calculated by yourself.
 
 ### Point datasets
-1. 
-2. 
-3. 
+1. GBIF - Architeuthis dux
+2. GBIF - Tursiops aduncus
+3. GBIF - Hydrochoerus hydrochaeris
 
 ### Line datasets
-1.
-2.
-3.
+1. Flight Connections - Air India
+2. Flight Connections - Air Astana
+3. Flight Connections - United Airlines, 33% random sampling
+
+Some datasets may be very large - you may sample or edit these datasets to fit your task. However, if you do so, state how you constructed your datasets clearly in your report, including which sampling method you used and how many points/lines (or the percentage) you sampled.
 
 ## tissot-implementation
 `tissot-implementation/` is a sample React + TypeScript project which renders Tissot's indicatrices onto a world map with five distinct map projections: Mercator, Natural Earth, Orthographic, Equirectangular, and Azimuthal Equal-Area.
